@@ -87,3 +87,6 @@ iframe {
   display: block;
   margin: 10px;
 }
+section img {
+  margin-left: 60%
+}
